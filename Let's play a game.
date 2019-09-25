@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 {
 printf("let's play a game.\n");
 return 0;

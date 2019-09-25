@@ -1,0 +1,6 @@
+#include<stdio.h>
+main()
+{
+printf("let's play a game.\n");
+return 0;
+}
